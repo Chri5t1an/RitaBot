@@ -16,6 +16,7 @@ module.exports = function run (bot, status, config, writable = true)
 {
 
    const activevar = [
+      `React with a flag on a message to translate.`,
       `ritabot.gg | !tr help`,
       `for messages to translate | ritabot.gg`,
       "messages to translate | ritabot.gg",
